@@ -6,7 +6,7 @@ function App() {
      <div className='frerecodecamp-logo-contenedor'>
       <img 
       className='freecodecamp-logo'
- 
+      scr=''
       alt='Logo de freeCodeCamp'/>
      </div>
     </div>
