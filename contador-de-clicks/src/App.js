@@ -1,4 +1,5 @@
 import './App.css';
+import freeCodeCampLogo from './imagenes/freecodecamplogo.png'
 
 function App() {
   return (
@@ -6,7 +7,7 @@ function App() {
      <div className='frerecodecamp-logo-contenedor'>
       <img 
       className='freecodecamp-logo'
-      scr=''
+      scr={freeCodeCampLogo}
       alt='Logo de freeCodeCamp'/>
      </div>
     </div>
